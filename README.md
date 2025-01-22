@@ -1,0 +1,2 @@
+# maze-solver
+practice project
